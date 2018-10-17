@@ -21,7 +21,7 @@ osio {
     ])
 
     build resources: resources
-    deploy resources: resources, env: 'stage'
+    
 
   }
 }
